@@ -46,8 +46,7 @@ function injectScript () {
 function injectStyle () {
   const rtStyle = `rt {
     font-size: 0.8em;
-    background: antiquewhite;
-    color: #000;}
+    }
     ruby {
       line-height: 3;
     }
